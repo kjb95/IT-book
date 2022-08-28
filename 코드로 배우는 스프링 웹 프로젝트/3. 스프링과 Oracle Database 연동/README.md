@@ -32,11 +32,3 @@
 
 -   root-context.xml은 주로 이미 만들어진 클래스들을 이용해서 스프링의 빈으로 등록할때 사용
 -   일반적인 상황에서는 어노테이션을 이용
-
-### log4jdbc.log4j2 관련 에러 해결
-
--   https://kimvampa.tistory.com/63
-
-### sqlSessionFactory 빈 생성시 오류
-
--   https://cceeun.tistory.com/83
